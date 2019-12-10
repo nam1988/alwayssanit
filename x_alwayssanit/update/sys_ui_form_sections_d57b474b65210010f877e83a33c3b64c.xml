@@ -14,20 +14,6 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-12-10 23:03:20</sys_updated_on>
         </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-12-10 23:03:20</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>917b474b65210010f877e83a33c3b64f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_alwayssanit_table1" name="x_alwayssanit_table1" sys_domain="global" view="Default view">d57b474b65210010f877e83a33c3b64c</sys_ui_form>
-            <sys_ui_section caption="Section2" display_value="Section2" name="x_alwayssanit_table1" sys_domain="global" view="Default view">917b474b65210010f877e83a33c3b64e</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-12-10 23:03:20</sys_updated_on>
-        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_alwayssanit_table1</name>
             <roles/>
